@@ -19,7 +19,10 @@ A framework for seamlessly integrating discrete and continuous systems within a 
 - `docs/`: Documentation and resources related to the project.
 - `domain_gpt_models/biology/genomics/DNA_sequence_prediction/`: Domain-specific GPT models for DNA sequence prediction tasks.
 
-## Getting Started
+## The article:
+
+Link:
+https://medium.com/@schwill84/the-tokenization-of-life-4ef56cba2dae
 
 ### Clone the Repository
 
