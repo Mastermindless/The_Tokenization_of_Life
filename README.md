@@ -19,10 +19,12 @@ A framework for seamlessly integrating discrete and continuous systems within a 
 - `docs/`: Documentation and resources related to the project.
 - `domain_gpt_models/biology/genomics/DNA_sequence_prediction/`: Domain-specific GPT models for DNA sequence prediction tasks.
 
-## The article:
-
-Link:
+## The Tokenization of Life
 https://medium.com/@schwill84/the-tokenization-of-life-4ef56cba2dae
+
+## Replicating GPT hidden states by Fourier Neural Operator (FNO):
+https://medium.com/@schwill84/replicating-gpt-hidden-states-by-fourier-neural-operator-fno-ad9fb8539982
+
 
 ### Clone the Repository
 
